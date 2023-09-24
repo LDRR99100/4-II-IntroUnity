@@ -4,4 +4,4 @@ Se ha creado una escena muy simple con los elementos requeridos en la tarea. Se 
 
 Se generó un gif con la ejecución del programa:
 
-![basic-scene-gif](https://user-images.githubusercontent.com/72818703/138376182-a49f07a6-fd91-43b7-9f05-c4ea181aff15.gif)
+![animation](https://github.com/LDRR99100/4-II-IntroUnity/blob/d41d074fefa3a79a552bce6063e4d391892e67e4/animation.gif)
